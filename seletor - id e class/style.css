@@ -24,14 +24,17 @@ p {
 
 .basico {
     color: rgb(182, 182, 255);
+    width: 250px;
 }
 
 .intermediario {
     color: rgb(83, 83, 247);
+    width: 250px;
 }
 
 .avancado {
     color: blue;
+    width: 250px;
 }
 
 .destaque {
