@@ -1,0 +1,88 @@
+* {
+    color: rgb(206, 206, 206);
+
+}
+
+body {
+    background-color: rgb(32, 32, 32);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1{
+    color: white;
+}
+
+header {
+    background-color: rgb(85, 85, 85);
+    padding: 10px;
+    margin: 5px;
+    height: 100px;
+    margin-bottom: 10px;
+}
+
+nav {
+    background-color: aliceblue;
+    padding: 2px;
+    box-shadow:  5px 2px 8px rgba(0, 0, 255, 0.37);
+}
+
+a {
+    color: rgb(17, 0, 255);
+    padding-right: 20px;
+    border: 2px;
+
+}
+
+a:hover {
+    color: aliceblue;
+}
+
+main {
+    background-color: rgb(85, 85, 85);
+    padding: 15px;
+    margin: 5px;
+    text-align: justify;
+    border-radius: 7px;
+}
+
+p {
+   text-indent: 10px; 
+}
+
+article {
+    background-color: rgb(46, 46, 46);
+    padding: 15px;
+    margin: 2px;
+    text-align: justify;
+    margin-bottom: 10px;
+    border-radius: 0px 10px;
+    border: 2px solid rgb(0, 0, 255);
+    outline: 2px solid white;
+}
+
+aside {
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+    padding: 2px;
+}
+
+footer {
+    background-color: blue;
+    margin-top: 10px;
+    padding: 4px;
+    text-align: center;
+}
+
+footer > p {
+    margin: 0px;
+}
+
+div#bola {
+    background-color: aliceblue;
+    height: 200px;
+    width: 200px;
+    margin: 10px;
+    border-radius: 100px;
+}
+
